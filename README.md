@@ -1,1 +1,3 @@
 # Restaurant_Table_Booking
+The Restaurant Table Booking System is a web application that allows users to conveniently book tables at their favorite restaurants online. Built using Django and MySQL, this platform enables customers to view available time slots, select their preferred date and time, and make reservations in just a few clicks. Users can register, log in, manage their bookings, and receive confirmations. On the admin side, restaurant staff can manage table availability, monitor upcoming reservations, and ensure smooth dining experiences. The system is designed to be user-friendly, mobile-responsive, and efficient, reducing manual booking errors and improving customer satisfaction.
+
